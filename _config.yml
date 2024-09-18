@@ -49,7 +49,7 @@ additional_links:
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   I'm a seasoned IT professional with over 20 years of experience in systems integration, software development, and operations management in the enterprise space.
-  I am most skilled in: <mark>agile/lean/devops</mark> and <mark>systems engineering</mark>
+  </p> I am most skilled in: <mark>agile/lean/devops</mark> and <mark>systems engineering</mark>
 
 content:
   - title: Projects # Title for the section
@@ -81,9 +81,10 @@ content:
         sub_title: Program Manager Consultant Specialist
         caption: May 1998 - Present
         quote: >
-          When your work speaks for itself, don't interrupt
+          When your work speaks for itself, don't interrupt - Henry J. Kaiser
         description: | # this will include new lines to allow paragraphs
-            Kaiser Permanente is an American integrated managed care consortium, based in Oakland, California, United States, founded in 1945 by industrialist Henry J. Kaiser and physician Sidney Garfield.
+            Kaiser Permanente is an American integrated managed care consortium, based in Oakland, California, United States. 
+            Founded in 1945 by industrialist Henry J. Kaiser and physician Sidney Garfield.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
