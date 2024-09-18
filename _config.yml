@@ -48,9 +48,11 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I'm a seasoned IT professional with over 20 years of experience in systems integration, software development, and operations management in the enterprise space.
+  I'm a seasoned IT professional with over 20 years of experience in systems integration, software development, and operations management in the enterprise space.  My life's path has given me exposure to many key points in the evolution of computing, from hacking games on a 286 as a teenager to operations management in a large enterprise.
+
+  My management appreciates my unique and thoughtful approach to challenges.  I take a systems view to ensure that not only is the solution appropriate, but it is also sustainable and adoptable solving problems for the long term.
+
   
-  I am most skilled in: <mark>agile/lean/devops</mark> and <mark>systems engineering</mark>
 
 content:
   - title: Projects # Title for the section
