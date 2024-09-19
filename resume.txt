@@ -1,0 +1,46 @@
+Contact Information:
+Andy Patton-Morgan
+Solutions Consultant IT Enterprise Operations
+Web: andypattonmorgan.github.io 
+Email: andypattonmorgan@gmail.com
+Github: https://github.com/andypattonmorgan
+Linkedin: https://www.linkedin.com/in/andypattonmorgan
+
+About Me:
+    Leveraging 20+ years of Enterprise IT experience, I seek strategic roles that optimize value delivery. My expertise in engineering, project management, and process engineering empowers me to design and implement systems that enhance organizational efficiency, flexibility, and transparency. By understanding the intricate flow of work and value, I aim to create a more effective and predictable environment to track and achieve our goals.
+
+Experience:
+    Kaiser Permanente
+        1997 - Present
+        Title: Program Manager - Consultant Specialist
+            Digital Portfolio - 
+            DevOps Transformation - 
+            Mobility Center of Excellence - 
+            Epic systems architect - 
+            Systems Integration - 
+    IBM Global Services
+        1996
+        Title - Lead Technical Service Manager
+            Provided NT server and desktop support for business groups.
+    Montgomery Securities
+        1995
+        Title: NT Domain Administrator
+            Support user and machine registration for a large desktop and network migration to NT Domains and Windows desktops.
+    Napier
+        1994
+        Title: Systems Engineer
+            Support multiple networks (Novell, LanMan, TCP), NT Servers, Windows Workstations.
+            Strategic technical research of emerging technologies and trends.
+    Wells Fargo Bank
+        1994
+        Title: Helpdesk Analyst
+            Phone support for bank managers for in house developed financial management and sales products.
+    GIS/Solutions
+        1993
+        LAN/Desktop/Database support for startup.
+
+Education and Certifications
+    Stanford Certified Project Manager - 2014
+    Prosci Certified Change Manager certified - 2017
+    Certified Scrum Master - 2014
+    Diablo Valley College - 1991-1992
