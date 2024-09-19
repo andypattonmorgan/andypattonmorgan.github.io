@@ -98,7 +98,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Television production and direction, philosopy.
         
-        layout: left
+      - layout: left
         title: Stanford Certified Project Manager
         caption: 2014
         sub_title: 
