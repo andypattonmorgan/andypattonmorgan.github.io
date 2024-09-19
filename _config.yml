@@ -110,14 +110,11 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      Alongside my interests in IT Enterprise Socio-technical systems some of my other interests and hobbies are:
+      - Jugger
+      - Mace flow
+      - Minecraft development with my children
 
-      Look at this cool image  
-      ![Trees](images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
